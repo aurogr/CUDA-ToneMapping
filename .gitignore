@@ -1,0 +1,32 @@
+# --- CONFIGURACIÓN DE PROYECTO (Lo que pediste excluir) ---
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.props
+*.targets
+
+# --- CARPETAS DE COMPILACIÓN Y CACHÉ ---
+.vs/
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# --- ARCHIVOS TEMPORALES DE C++ ---
+*.sdf
+*.opensdf
+*.ipch
+*.pch
+*.db
+*.opendb
+*.tlog
+*.lastbuildstate
+*.recipe
+*.ilk
+*.pdb
+*.exe
+*.dll
+*.lib
