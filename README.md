@@ -13,8 +13,8 @@ The luminance range of the image is calculated as the difference between the max
 **3. Obtain histogram.**   
 Implement an histogram kernel to obtain all the values in the same luminance range.  
 
-**4. Obtain cumulative distribution function (cdf).**   
-The cdf is the mapping function needed to scale the image's dynamic range into a displayable format. This is calculated with an exclusive scan kernel.  
+**4. Obtain cumulative distribution function (CDF).**   
+The CDF is the mapping function needed to scale the image's dynamic range into a displayable format. This is calculated with an exclusive scan kernel.  
 
 
 <table>
